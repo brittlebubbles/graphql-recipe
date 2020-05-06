@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.3"
+  },
+  "name": "grqphl-books",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
